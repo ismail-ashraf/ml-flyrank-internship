@@ -1,0 +1,36 @@
+[Voice Card]
+Direct, problem-first, solution-focused, practical, concise, highly technical, plain speaking.
+
+[Case Study 1: RAG System & HR/ATS Agent]
+1. The Problem
+Studying and extracting information from massive document sets takes too much manual effort and time. I needed a personal RAG system where I could upload lectures or documents and get precise summaries and answers driven purely by the provided context, without hallucinations.
+
+2. What I Did & Decided
+Architecture: Built a full backend architecture using FastAPI.
+
+Chunking Strategy: Configured a chunk size of 500 with an overlap of 100 to maintain semantic context across boundaries and avoid data loss during retrieval.
+
+Embeddings & Vector Store: Used Sentence Transformers for vector embeddings, storing vectors, metadata, and text chunks in ChromaDB.
+
+LLM Engine: Integrated Groq API during testing for fast latency, structured to switch seamlessly to OpenAI or Gemini endpoints.
+
+Agentic Design: Designed it as an Agentic workflow equipped with custom tools, allowing the engine to adapt to broader document tasks rather than simple semantic search.
+
+3. What Came of It
+The system drastically reduced the time needed to parse through lecture files. Beyond study workflows, its agentic architecture made it fully adaptable for HR/ATS workflows—taking candidate resumes, querying skills, and evaluating candidates against specific job requirements with exact contextual precision.
+
+[Before / After Example]
+Before (Generic AI Line):
+
+"I successfully architected an innovative, high-performance RAG pipeline leveraging state-of-the-art vector embeddings to revolutionize personalized information retrieval and enterprise document management."
+
+After (My Edited Version):
+
+"I built a complete RAG backend using FastAPI and ChromaDB to parse lectures and CVs, cutting out manual searching and getting straight to precise answers."
+
+[Bio & Contact / CTA]
+Bio:
+AI Engineer & Data Science & Backend Developer. I build functional Python, FastAPI, and RAG pipelines focused on technical execution and zero fluff.
+
+Contact / CTA:
+Open for projects or roles involving LLM integrations, RAG pipelines, or backend engineering. Let's talk: [ismailashraf32@gmail.com].
