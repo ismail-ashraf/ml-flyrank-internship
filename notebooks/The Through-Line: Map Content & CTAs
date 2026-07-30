@@ -1,0 +1,94 @@
+1. One-Line Claim
+"I engineer end-to-end Machine Learning pipelines and data analytics solutions that turn complex predictive logic into actionable business growth."
+
+2. Content Map
+Page 1: Home (/)
+Goal / Single Action: Drive visitors to explore technical case studies and initiate contact for hiring or freelance opportunities.
+
+Sections in Order:
+
+Hero Section:
+
+Prominent One-Line Claim.
+
+Brief 2-line summary highlighting expertise in ML, Data Pipelines, and Backend Integration.
+
+Primary CTA: [Explore Case Studies]
+
+Featured Proof / Top Cases (Lead with Strongest):
+
+Case #1 (Lead): SEO Client Acquisition & ROI Forecasting Pipeline (Capstone Internship Project).
+
+Case #2: Computer Vision Deepfake Detection Engine.
+
+Case #3: High-Performance RAG & Vector Search System (FAISS/ChromaDB).
+
+Technical Stack & Methodology:
+
+Visual grid showcasing tools: Python, PyTorch, DuckDB, Pandas, Django/FastAPI, LangGraph.
+
+Call to Action Section:
+
+CTA: [Get in Touch / View GitHub]
+
+Page 2: Project Case Study — SEO Client Acquisition Forecasting (/projects/seo-roi-forecaster) (Strongest Work)
+Goal / Single Action: Demonstrate ability to engineer real-world data pipelines that solve concrete business problems while adhering to rigorous standards (preventing data leakage, DuckDB windowing, feature engineering).
+
+Sections in Order:
+
+Project Header: Title, business challenge, tech stack (DuckDB, Pandas, ML Regressors).
+
+The Business Problem: How predicting client acquisition impacts SEO marketing ROI decisions.
+
+Data Engineering & Pipeline Architecture:
+
+Querying and structuring the fact_content_daily_performance table.
+
+DuckDB integration, window functions, and feature engineering while strictly avoiding data leakage.
+
+Model Performance & ROI Impact: Quantitative evaluation (metrics, before vs. after comparison).
+
+Call to Action Section:
+
+CTA: [View Project Repository on GitHub]
+
+Page 3: Project Case Study — Deepfake Detection System (/projects/deepfake-detector)
+Goal / Single Action: Prove technical competency in Computer Vision and PyTorch for complex media processing.
+
+Sections in Order:
+
+Project Header: Problem scope (video manipulation detection), stack (PyTorch, OpenCV, MTCNN).
+
+Data Pipeline & Face Extraction: Custom dataset processing, frame sampling, and ROI face-cropping mechanisms.
+
+Architecture & Training Metrics: Model architecture details, loss curves, and evaluation metrics.
+
+Call to Action Section:
+
+CTA: [Inspect Dataset Pipeline Code]
+
+Page 4: About & Contact (/about)
+Goal / Single Action: Schedule a technical interview or inquiry call.
+
+Sections in Order:
+
+Engineering Mindset & Approach: Focus on mathematical derivations from scratch, robust backend design, and data science fundamentals.
+
+Experience & Internship: Highlights from data/ML internship work and technical contributions.
+
+Contact & Booking:
+
+CTA: [Schedule a Technical Call / Send an Email]
+
+3. Still Need to Gather List
+[ ] SEO Capstone Metrics: Final model evaluation metrics (RMSE / R 
+2
+  scores) and performance comparison charts (before vs. after feature engineering) from the DuckDB pipeline.
+
+[ ] Architecture Diagrams: Clean flowcharts for both the SEO Data Pipeline and the Deepfake Preprocessing Pipeline.
+
+[ ] Visual Assets & Demos: Visual logs/GIFs demonstrating face-cropping routines and execution benchmarks.
+
+[ ] GitHub Repository Refinement: Standardize README.md files and clean up codebases across repositories for public presentation.
+
+[ ] Internship Testimonial: Request a brief written recommendation from the internship mentor/team to feature on the About page.
